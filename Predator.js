@@ -1,1 +1,4 @@
-console.log("Hello")
+var Predator = (function () {
+  var carnivores = []
+  var herbivores = []
+}())
